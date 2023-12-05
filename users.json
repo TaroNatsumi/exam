@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "first_name": "asdas",
+        "last_name": "asdasd",
+        "birth_date": "2000-05-23",
+        "email": "asdasdad",
+        "username": "asd",
+        "password": "asd"
+    },
+    {
+        "id": 2,
+        "first_name": "asd",
+        "last_name": "asd",
+        "birth_date": "2000-04-06",
+        "email": "asd",
+        "username": "qwe",
+        "password": "asd"
+    }
+]
